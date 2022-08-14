@@ -1,11 +1,3 @@
-
-//Shashank Raghuraj
-//Jimmy Lin
-//23/25
-//Second batch of cases in C and D
-//Regrade: 26/25 (Garrett Bearss)
-
-
 import java.util.*;
 import java.math.*;
 import java.lang.Math;
