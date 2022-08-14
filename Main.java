@@ -1,6 +1,3 @@
-//Shashank Raghuraj
-//Due 11/3/2020
-//Task: Get used to a new pal: the Array List
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Main
